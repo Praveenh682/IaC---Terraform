@@ -1,6 +1,4 @@
 # Terraform-related files to ignore
-*.tfstate
-*.tfstate.backup
 .terraform/
 .crash
 *.log
