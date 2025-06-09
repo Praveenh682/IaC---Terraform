@@ -10,3 +10,8 @@ module "my_ec2_instance" {
     instance_type  = var.instance_type
   
 }
+
+
+
+
+# terraform apply -var-file=stage.tfvars
